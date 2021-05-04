@@ -1,4 +1,4 @@
-[submoduxle "_includes/extras"]
+[submodule "_includes/extras"]
 	path = _includes/extras
 	url = https://github.com/pibook/extras.git
 	branch = master
@@ -14,9 +14,3 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/p16andr/_gallery.git
-[submodule "images"]
-	path = images
-	url = https://github.com/p16andr/images.git
